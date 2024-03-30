@@ -23,8 +23,15 @@ opnecv의 기능들을 이용해 카메라의 정보들을 얻어내는 카메�
 
 
 
-(영상등록)
+https://github.com/hje1072/python_camera_calibration/assets/71210590/fdd7f7c1-a2a2-407b-8f3b-41d63c2424ff
 
+
+![카메라캘리브레이션 결과](https://github.com/hje1072/python_camera_calibration/assets/71210590/34e9cdf6-69df-45d6-9a54-ac15beaaa62b)
+
+<br/><br/>
+이를 통해 알아낸 정보는 다음과 같다.
+fx = 432.80484625, fy = 431.81319646, s = 0, cx = 477.50546816, cy =290.20047424 <br/>
+ Distortion coefficient p1 =-5.11703994e-04, p2 = 1.63156251e-04
 * * *
 * * *
 >

@@ -32,6 +32,8 @@ https://github.com/hje1072/python_camera_calibration/assets/71210590/fdd7f7c1-a2
 이를 통해 알아낸 정보는 다음과 같다.
 fx = 432.80484625, fy = 431.81319646, s = 0, cx = 477.50546816, cy =290.20047424 <br/>
  Distortion coefficient p1 =-5.11703994e-04, p2 = 1.63156251e-04
+p1,p2의 값이 굉장히 0에 가까운 값을 보이기 때문에 이는 카메라캘리브레이션이 잘 되었음을 빙증해준다.
+ 
 * * *
 * * *
 >

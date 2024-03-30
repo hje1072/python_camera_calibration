@@ -49,7 +49,6 @@ https://github.com/hje1072/python_camera_calibration/assets/71210590/0e9b177a-9f
 ![보정전](https://github.com/hje1072/python_camera_calibration/assets/71210590/1d94374b-c0f7-4209-b811-ed9e5a79d552)
 
 - 보정후 <br/>
- 
 ![보정후](https://github.com/hje1072/python_camera_calibration/assets/71210590/8c3de6ca-4362-4ea6-80e8-ec453904b2d5)
  
 
